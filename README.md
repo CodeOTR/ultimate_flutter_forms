@@ -6,6 +6,12 @@ To demo the TextFields and user inputs, run the following command in the termina
 monarch run
 ```
 
+## More by Code on the Rocks
+| [Flutter AI Chat](https://codeontherocks.gumroad.com/l/flutter-ai-chat)                                                                         |
+|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| <a href="https://codeontherocks.gumroad.com/l/flutter-ai-chat"><img src="https://public-files.gumroad.com/cn4mfepgnvhnw4af8icucgmda7iq" height="500"></a> |
+| Flutter AI Chat Starter App (with Firebase and PaLM)                                                                                            | 
+
 ## Adding a new input type
 1. Create the widget in the correct folder depending on its type
 2. Add a new entry to the **_stories.dart file in the stories folder
